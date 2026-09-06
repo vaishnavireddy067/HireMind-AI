@@ -1,0 +1,15 @@
+streamlit
+pandas
+PyPDF2
+python-docx
+spacy
+scikit-learn
+plotly
+nltk
+sentence-transformers
+torch
+langchain
+langchain-community
+faiss-cpu
+google-generativeai
+deep_translator
